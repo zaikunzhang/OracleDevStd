@@ -1,0 +1,3 @@
+#!/bin/bash
+
+7za x OracleDevStd.7z.001 -aoa
